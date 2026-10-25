@@ -1,0 +1,6 @@
+{
+  "name": "OG Generator",
+  "description": "Ultra-luxurious royal dark themed secure account generator with multi-tier activation and admin inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
